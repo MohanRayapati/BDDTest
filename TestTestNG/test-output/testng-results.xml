@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-22T19:38:11 IST" name="Suitedemo" finished-at="2023-06-22T19:38:28 IST" duration-ms="17344">
+    <groups>
+    </groups>
+    <test started-at="2023-06-22T19:38:11 IST" name="Test" finished-at="2023-06-22T19:38:28 IST" duration-ms="17344">
+      <class name="TestCases.GoogleSearchTests">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.GoogleSearchTests@505fc5a4]" started-at="2023-06-22T19:38:11 IST" name="beforeMethod" finished-at="2023-06-22T19:38:15 IST" duration-ms="3991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:0, instance:TestCases.GoogleSearchTests@505fc5a4]" started-at="2023-06-22T19:38:15 IST" name="test1" finished-at="2023-06-22T19:38:26 IST" duration-ms="10378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestCases.GoogleSearchTests@505fc5a4]" started-at="2023-06-22T19:38:26 IST" name="afterMethod" finished-at="2023-06-22T19:38:26 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.GoogleSearchTests@505fc5a4]" started-at="2023-06-22T19:38:26 IST" name="beforeMethod" finished-at="2023-06-22T19:38:28 IST" duration-ms="2389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test2()[pri:0, instance:TestCases.GoogleSearchTests@505fc5a4]" started-at="2023-06-22T19:38:28 IST" name="test2" finished-at="2023-06-22T19:38:28 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestCases.GoogleSearchTests@505fc5a4]" started-at="2023-06-22T19:38:28 IST" name="afterMethod" finished-at="2023-06-22T19:38:28 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestCases.GoogleSearchTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suitedemo -->
+</testng-results>
