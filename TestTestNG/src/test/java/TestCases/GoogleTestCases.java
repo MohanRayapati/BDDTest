@@ -14,21 +14,25 @@ public class GoogleSearchTests {
 		{
 			gsm.launch_the_url();
 		}
+		
 		@Test
 		public void test1() throws InterruptedException
 		{
 			gsm.enter_text_in_google_search_box();
 		}
+		
 		@Test
 		public void test2()
 		{
 			gsm.get_the_title_and_print();
 		}
+		
 		@AfterMethod
 		public void afterMethod()
 		{
 			gsm.close_the_browser();
 		}
+		
 
 	}
 
